@@ -17,3 +17,6 @@ We will store the customer’s details and orders in the database
 Chat will send a notification to customers if the order is confirmed
 
 The chatbot is also useful in Follow up on customer feedback
+
+
+https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=0c61bda7-cb83-4ead-8108-528cb1371232&serviceInstanceID=fc863315-0431-47be-b1a7-f612d0ad0ced
